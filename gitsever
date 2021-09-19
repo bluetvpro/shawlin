@@ -1,4 +1,5 @@
-{"jshaw":"https://raw.githubusercontent.com/heinh247/bluetvsever/main/Japan",
+{"firebase":"off",
+"jshaw":"https://raw.githubusercontent.com/heinh247/bluetvsever/main/Japan",
 "kshaw":"https://raw.githubusercontent.com/heinh247/bluetvsever/main/Korea",
 "jcshaw":"",
 "ushaw":"https://raw.githubusercontent.com/heinh247/bluetvsever/main/Usa",
@@ -6,4 +7,6 @@
 "webshaw":"https://raw.githubusercontent.com/heinh247/bluetvsever/main/web",
 "liveshaw":"https://raw.githubusercontent.com/heinh247/bluetvsever/main/Livetv",
 "keyshaw":"https://raw.githubusercontent.com/heinh247/blue-tv/main/vipkey",
-"firebase":"off"}
+"pw1":"12345",
+"pw2":"56789",
+"pimage":""}

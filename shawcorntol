@@ -4,9 +4,9 @@
 "admob":"off",
 "admobaner":"off",
 "adstime":"25",
-"startio":"off",
-"iotime":"5",
+"startio":"open",
+"iotime":"4",
 "unity":"off",
 "utime":"5",
 "banner":"start",
-"allbanner":"off"}
+"allbanner":"open"}

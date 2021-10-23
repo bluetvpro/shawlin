@@ -9,4 +9,7 @@
 "unity":"open",
 "utime":"8",
 "banner":"start",
-"allbanner":"off"}
+"allbanner":"off",
+"interid":"id",
+"bannerid":"id",
+"rewardid":"id"}

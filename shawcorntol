@@ -12,4 +12,12 @@
 "allbanner":"off",
 "interid":"id",
 "bannerid":"id",
-"rewardid":"id"}
+"rewardid":"id",
+"admob2":"off",
+"admobaner2":"off",
+"adstime2":"5",
+"startio2":"open",
+"iotime2":"5",
+"unity2":"open",
+"utime2":"8",
+"banner2":"start"}

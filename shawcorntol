@@ -13,6 +13,7 @@
 "interid":"id",
 "bannerid":"id",
 "rewardid":"id",
+"madmob":"open",
 "admob2":"off",
 "admobaner2":"off",
 "adstime2":"5",

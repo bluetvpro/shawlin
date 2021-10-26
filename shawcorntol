@@ -14,6 +14,7 @@
 "bannerid":"id",
 "rewardid":"id",
 "madmob":"open",
+"madtime":"6",
 "admob2":"off",
 "admobaner2":"off",
 "adstime2":"5",
